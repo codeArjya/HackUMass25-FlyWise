@@ -1,1 +1,0 @@
-FlyWise app
