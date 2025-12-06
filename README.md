@@ -1,4 +1,4 @@
-#_**DEVPOST STORY**_
+# _**DEVPOST STORY**_
 
 ## Inspiration
 Planning trips often feels like guesswork - juggling weather data, flight delays, and costs without any clear way to predict the best time to travel. We wanted to create something that makes trip planning smart, predictive, and personalized. FlyWise was initially born out of excitement for the upcoming World Cup, when flight prices to host cities are expected to surge unpredictably. Instead of guessing when to buy, FlyWise would use real-time flight data, machine learning forecasts, and Gemini-powered AI insights to tell users exactly when to book - saving both time and money while reducing the stress of travel planning.
